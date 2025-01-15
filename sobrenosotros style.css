@@ -9,6 +9,13 @@ h1{
     font-weight: 900;
 }
 
+h3{
+    color: rgb(99, 32, 255);
+    font-size: 60px;
+    font-family: Arial Black;
+    font-weight: 900;
+}
+
 h2{
     color: rgb(99, 32, 255);
     font-size: 60px;
